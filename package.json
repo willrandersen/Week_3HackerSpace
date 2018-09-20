@@ -1,0 +1,8 @@
+{
+"name": "week_03",
+"author": "will<wra3@illinois.edu>",
+"scripts": {
+  "start": "node index.js"
+},
+"license": "MIT"
+}
